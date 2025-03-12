@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lcoh-calculator/static/css/main.199813cb.css",
+    "main.js": "/lcoh-calculator/static/js/main.fa8c209c.js",
+    "index.html": "/lcoh-calculator/index.html",
+    "main.199813cb.css.map": "/lcoh-calculator/static/css/main.199813cb.css.map",
+    "main.fa8c209c.js.map": "/lcoh-calculator/static/js/main.fa8c209c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.199813cb.css",
+    "static/js/main.fa8c209c.js"
+  ]
+}
